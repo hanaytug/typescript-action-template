@@ -4,7 +4,7 @@
 [![Use this template](https://img.shields.io/badge/✨%20Use%20this%20template%20%20✨-blueviolet.svg)][2]
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)][7]
 
-Template repository to create a GitHub Action in with TypeScript.
+Template repository to create a GitHub Action with TypeScript.
 
 ## Features
 
